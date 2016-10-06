@@ -1,0 +1,9 @@
+[
+  {
+    "id": "sort_type",
+    "label": "Sort Type",
+    "type": "enum",
+    "values": ["gid", "subject"],
+    "default": "gid"
+  }
+]
